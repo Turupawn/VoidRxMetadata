@@ -1,0 +1,11 @@
+{
+  "name": "RedLoopin",
+  "description": "Class: Time Perception Modulator\nMakes 1 minute feel like 1 hour. Popular among hackers during long network intrusions. Banned after causing widespread dissociation.",
+  "image": "ipfs://<your_image_cid>/redloopin.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Time Perception Modulator" },
+    { "trait_type": "Effect", "value": "Time Distortion" },
+    { "trait_type": "Status", "value": "Banned" },
+    { "trait_type": "Rarity", "value": "Epic" }
+  ]
+}
