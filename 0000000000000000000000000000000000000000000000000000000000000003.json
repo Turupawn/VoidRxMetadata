@@ -1,0 +1,11 @@
+{
+  "name": "CryoCodeine",
+  "description": "Class: Cybernetic Painkiller\nCools both nerves and thoughts. Popular among street fighters and rogue synths. Leaves a digital trace in neural implants.",
+  "image": "ipfs://<your_image_cid>/cryocodeine.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Cybernetic Painkiller" },
+    { "trait_type": "Effect", "value": "Neuro-Cooling" },
+    { "trait_type": "Trace", "value": "Digital Residue" },
+    { "trait_type": "Rarity", "value": "Uncommon" }
+  ]
+}
