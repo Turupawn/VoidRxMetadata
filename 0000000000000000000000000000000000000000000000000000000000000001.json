@@ -1,0 +1,11 @@
+{
+  "name": "NOIRazepam",
+  "description": "Class: Antipsychotic/Antisurveillance\nMakes you unreadable to emotion-detection algorithms. Widespread in protest zones. Makes you unreadable to humans too.",
+  "image": "ipfs://<your_image_cid>/noirazepam.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Antipsychotic/Antisurveillance" },
+    { "trait_type": "Effect", "value": "Emotion-Cloaking" },
+    { "trait_type": "Side Effect", "value": "Human Disconnect" },
+    { "trait_type": "Rarity", "value": "Rare" }
+  ]
+}
